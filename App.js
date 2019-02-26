@@ -1,3 +1,6 @@
+
+// Wan Nurina bt Shahrin 1625328
+
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
